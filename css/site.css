@@ -60,3 +60,8 @@ body{
     margin-right: -50%;
     transform: translate(-50%, -50%);
 }
+
+.img1{
+    margin-left: 15px;
+    margin-top: 15px;
+}
